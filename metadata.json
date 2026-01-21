@@ -1,0 +1,8 @@
+{
+  "name": "MediMind AI - Mental Health Diagnostic Platform",
+  "description": "A dual-interface medical application for doctors and patients facilitating mental health diagnostics including interviews, depression scales, text reading analysis, and HTP tests.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
